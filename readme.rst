@@ -2,7 +2,7 @@
  Monte-Carlo Experiment
 ***********************
 
-NOTE: This an experimental package is only of historical interest. It formed the basis of what is now [PyMC3](https://github.com/pymc-devs/pymc3). Use that instead.  
+NOTE: This an experimental package is only of historical interest. It formed the basis of what is now PyMC3 (https://github.com/pymc-devs/pymc3). Use that instead.  
 
 MCEx is an experimental package designed to be allow experimentation with MCMC package design. 
 It's goal is to be simple to use, understand, extend and improve, while still being fast. 
